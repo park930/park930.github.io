@@ -1,5 +1,6 @@
 ---
 layout: home
+title : About me - JuHyun Park
 ---
 
 # About Me

@@ -103,7 +103,7 @@ main {
     }
     .tagline {
       text-align: center;
-      font-size: 22px;
+      font-size: 14px;
       margin-top: 0px;
       color: #aaa;
       white-space: pre-wrap;
@@ -230,6 +230,7 @@ main {
 .post-container {
   list-style-type: none;
   margin: 45px 30px;
+  margin-top: 60px;
   @media screen and (max-width: $smallMobileW) {
     margin-left: 20px;
     margin-right: 20px;
